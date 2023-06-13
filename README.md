@@ -2,7 +2,7 @@
 Разработка метода определения текущей операции по логам бурения.
 
 Подготовка:
-- [ ] Ознакомиться с шаблоном cookiecutter https://drivendata.github.io/cookiecutter-data-science/, придерживаться такой же организации файлов в этом репозитории. (прочел, но пока не очень понятно; в процессе буду разбираться детальнее)
+- [x] Ознакомиться с шаблоном cookiecutter https://drivendata.github.io/cookiecutter-data-science/, придерживаться такой же организации файлов в этом репозитории. (прочел, но пока не очень понятно; в процессе буду разбираться детальнее)
 - [ ] Завести гуглдок для лит обзора, приложить сюда ссылку с доступом для чтения или комментирования. https://docs.google.com/document/d/1J-KowmriRmemfZDlIhJYT11YY818RZCnouIo5bcpxiI/edit?usp=sharing
 - [ ] завести гуглтаблицу для сбора результатов экспериментов https://docs.google.com/spreadsheets/d/19ZWsfsMmiqPIJBWcLNqzq7dWhn44TC2VHKyLcNvt4_8/edit?hl=ru#gid=0
 
